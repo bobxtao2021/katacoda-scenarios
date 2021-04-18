@@ -4,12 +4,12 @@
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "scenarios-1",
+        "course_id": "first-scenario",
         "title": "scenarios-1 by xt",
         "description": "Katacoda Scenario Example scenarios-1 by xt"
       },
       {
-        "course_id": "first-scenario",
+        "course_id": "second-scenario",
         "title": "scenarios-2 by xt",
         "description": "Katacoda Scenario Example scenarios-2 by xt"
       },
