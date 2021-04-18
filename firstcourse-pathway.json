@@ -1,0 +1,23 @@
+{
+    "title": "first Katacoda course by xt",
+    "description": "Example of first Katacoda course by xt",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "scenarios-1",
+        "title": "scenarios-1 by xt",
+        "description": "Katacoda Scenario Example scenarios-1 by xt"
+      },
+      {
+        "course_id": "scenarios-2",
+        "title": "scenarios-2 by xt",
+        "description": "Katacoda Scenario Example scenarios-2 by xt"
+      },
+     {
+        "pathway_id": "environment-usages",
+        "course_id": "ubuntu",
+        "title": "Ubuntu 16.04 Instance",
+        "description": "General purpose environment"
+     }
+    ]
+  }
