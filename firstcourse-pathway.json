@@ -15,8 +15,8 @@
       },
      {
         "pathway_id": "environment-usages",
-        "course_id": "ubuntu",
-        "title": "Ubuntu 16.04 Instance",
+        "course_id": "ubuntu-1804",
+        "title": "Ubuntu 18.04 Instance",
         "description": "General purpose environment"
      }
     ]
